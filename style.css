@@ -1,0 +1,10 @@
+table{
+    border: 2px;
+    border-style: solid;
+}
+
+.stolb{
+    border-left: 10px;
+    border: 2px;
+    border-style: solid;
+}
